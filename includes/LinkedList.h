@@ -134,4 +134,12 @@ public:
         }
         return;
     }
+
+    /* Deletes the entire list if possible */
+    void deleteAll()
+    {
+        node *temp = new node;
+        node *current = head;
+        // head -> head -> next
+    }
 };
