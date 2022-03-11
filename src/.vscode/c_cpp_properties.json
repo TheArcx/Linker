@@ -4,7 +4,7 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "C:/Users/Daljit/Documents/C++/Linker/includes"
+                "C:/Users/Daljit/Documents/C++/Linker/Linker/includes"
             ],
             "defines": [
                 "_DEBUG",
